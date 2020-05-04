@@ -1,0 +1,12 @@
+git inde.html<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>codigofacilito</title>
+  </head>
+  <body>
+    <h1>Esta es una etiqueta H1. Utilízala en el título.</h1>
+    <h2>Esta es una etiqueta H2. Utilízala en los encabezados de secciones.</h2>
+    <h3>Esta es una etiqueta H3.
+    </body>
+  </html>  
